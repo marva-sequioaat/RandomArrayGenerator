@@ -1,3 +1,6 @@
+
+"""test file for testing main function and randomarraygenerator function"""
+
 import pytest
 from practice import randomarraygenerator,main
 
